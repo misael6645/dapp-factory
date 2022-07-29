@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dapp-factory/static/css/main.7998e831.css",
+    "main.js": "/dapp-factory/static/js/main.0f5ad18b.js",
+    "index.html": "/dapp-factory/index.html",
+    "main.7998e831.css.map": "/dapp-factory/static/css/main.7998e831.css.map",
+    "main.0f5ad18b.js.map": "/dapp-factory/static/js/main.0f5ad18b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7998e831.css",
+    "static/js/main.0f5ad18b.js"
+  ]
+}
