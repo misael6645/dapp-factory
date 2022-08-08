@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/dapp-factory/static/css/main.7998e831.css",
-    "main.js": "/dapp-factory/static/js/main.0f5ad18b.js",
+    "main.css": "/dapp-factory/static/css/main.0c8e18d4.chunk.css",
+    "main.js": "/dapp-factory/static/js/main.ad022d21.chunk.js",
+    "main.js.map": "/dapp-factory/static/js/main.ad022d21.chunk.js.map",
+    "runtime-main.js": "/dapp-factory/static/js/runtime-main.8bee535c.js",
+    "runtime-main.js.map": "/dapp-factory/static/js/runtime-main.8bee535c.js.map",
+    "static/js/2.0941cb2e.chunk.js": "/dapp-factory/static/js/2.0941cb2e.chunk.js",
+    "static/js/2.0941cb2e.chunk.js.map": "/dapp-factory/static/js/2.0941cb2e.chunk.js.map",
     "index.html": "/dapp-factory/index.html",
-    "main.7998e831.css.map": "/dapp-factory/static/css/main.7998e831.css.map",
-    "main.0f5ad18b.js.map": "/dapp-factory/static/js/main.0f5ad18b.js.map"
+    "static/css/main.0c8e18d4.chunk.css.map": "/dapp-factory/static/css/main.0c8e18d4.chunk.css.map",
+    "static/js/2.0941cb2e.chunk.js.LICENSE.txt": "/dapp-factory/static/js/2.0941cb2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.7998e831.css",
-    "static/js/main.0f5ad18b.js"
+    "static/js/runtime-main.8bee535c.js",
+    "static/js/2.0941cb2e.chunk.js",
+    "static/css/main.0c8e18d4.chunk.css",
+    "static/js/main.ad022d21.chunk.js"
   ]
 }
