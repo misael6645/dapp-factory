@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/dapp-factory/static/css/main.0c8e18d4.chunk.css",
-    "main.js": "/dapp-factory/static/js/main.ad022d21.chunk.js",
-    "main.js.map": "/dapp-factory/static/js/main.ad022d21.chunk.js.map",
-    "runtime-main.js": "/dapp-factory/static/js/runtime-main.8bee535c.js",
-    "runtime-main.js.map": "/dapp-factory/static/js/runtime-main.8bee535c.js.map",
-    "static/js/2.0941cb2e.chunk.js": "/dapp-factory/static/js/2.0941cb2e.chunk.js",
-    "static/js/2.0941cb2e.chunk.js.map": "/dapp-factory/static/js/2.0941cb2e.chunk.js.map",
+    "main.js": "/dapp-factory/static/js/main.b421b939.chunk.js",
+    "main.js.map": "/dapp-factory/static/js/main.b421b939.chunk.js.map",
+    "runtime-main.js": "/dapp-factory/static/js/runtime-main.e9659dff.js",
+    "runtime-main.js.map": "/dapp-factory/static/js/runtime-main.e9659dff.js.map",
+    "static/js/2.44811c19.chunk.js": "/dapp-factory/static/js/2.44811c19.chunk.js",
+    "static/js/2.44811c19.chunk.js.map": "/dapp-factory/static/js/2.44811c19.chunk.js.map",
     "index.html": "/dapp-factory/index.html",
     "static/css/main.0c8e18d4.chunk.css.map": "/dapp-factory/static/css/main.0c8e18d4.chunk.css.map",
-    "static/js/2.0941cb2e.chunk.js.LICENSE.txt": "/dapp-factory/static/js/2.0941cb2e.chunk.js.LICENSE.txt"
+    "static/js/2.44811c19.chunk.js.LICENSE.txt": "/dapp-factory/static/js/2.44811c19.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bee535c.js",
-    "static/js/2.0941cb2e.chunk.js",
+    "static/js/runtime-main.e9659dff.js",
+    "static/js/2.44811c19.chunk.js",
     "static/css/main.0c8e18d4.chunk.css",
-    "static/js/main.ad022d21.chunk.js"
+    "static/js/main.b421b939.chunk.js"
   ]
 }
